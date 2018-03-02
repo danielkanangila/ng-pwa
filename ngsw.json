@@ -9,8 +9,8 @@
       "urls": [
         "https://danielkanangila.github.io/ng-pwa/favicon.ico",
         "https://danielkanangila.github.io/ng-pwa/index.html",
-        "https://danielkanangila.github.io/ng-pwa/inline.f6c8cdd1622a6a83e31b.bundle.js",
-        "https://danielkanangila.github.io/ng-pwa/main.f1eb90fccb7f3c31128b.bundle.js",
+        "https://danielkanangila.github.io/ng-pwa/inline.3f83ef78420fdee28958.bundle.js",
+        "https://danielkanangila.github.io/ng-pwa/main.f244d1bbf16dadb69dea.bundle.js",
         "https://danielkanangila.github.io/ng-pwa/polyfills.f20484b2fa4642e0dca8.bundle.js",
         "https://danielkanangila.github.io/ng-pwa/styles.0e3cb76784a6132a2806.bundle.css"
       ],
@@ -31,14 +31,16 @@
         "https://danielkanangila.github.io/ng-pwa/assets/icon-72x72.png",
         "https://danielkanangila.github.io/ng-pwa/assets/icon-96x96.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://danielkanangila.github.io/ng-pwa/inline.f6c8cdd1622a6a83e31b.bundle.js": "0673915a651aeefe9f3b586c496db64d70b8bded",
+    "https://danielkanangila.github.io/ng-pwa/inline.3f83ef78420fdee28958.bundle.js": "6ea9f34d7b5c3e032817e8e6aa2f1ea24ce68d13",
     "https://danielkanangila.github.io/ng-pwa/assets/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://danielkanangila.github.io/ng-pwa/main.f1eb90fccb7f3c31128b.bundle.js": "22d8264474748d518a413d70dbecb0665066a0cc",
+    "https://danielkanangila.github.io/ng-pwa/main.f244d1bbf16dadb69dea.bundle.js": "e0d1bedce50bf195401b346978547d06ba717bc6",
     "https://danielkanangila.github.io/ng-pwa/assets/icon-128x128.png": "2b3552c30657095094f4038c662f85be8d2c6de5",
     "https://danielkanangila.github.io/ng-pwa/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
     "https://danielkanangila.github.io/ng-pwa/assets/icon-144x144.png": "6122adb020c325e8c724fd695f71ba420039001d",
@@ -46,7 +48,7 @@
     "https://danielkanangila.github.io/ng-pwa/assets/icon-152x152.png": "a52335020ccdd9d75faafca7651c79197e2f27fd",
     "https://danielkanangila.github.io/ng-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "https://danielkanangila.github.io/ng-pwa/assets/icon-192x192.png": "3eb7b7e8470599fca305ea839e8e27e6fd42d443",
-    "https://danielkanangila.github.io/ng-pwa/index.html": "f05ae37f044660809635268da932241218c6332f",
+    "https://danielkanangila.github.io/ng-pwa/index.html": "130261fbf850674078d019eae15dcd8259947edc",
     "https://danielkanangila.github.io/ng-pwa/assets/icon-384x384.png": "3071279d7bbafdd18cd1fe26864ee42cf1fbd762",
     "https://danielkanangila.github.io/ng-pwa/assets/icon-512x512.png": "d37647abe945b19d3a42f46009177234382775db",
     "https://danielkanangila.github.io/ng-pwa/assets/icon-72x72.png": "c4e0e636f56bd32162a0fff0d0828c0276e083e2",
